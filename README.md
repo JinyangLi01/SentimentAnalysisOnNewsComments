@@ -17,4 +17,4 @@ Two methods:
 
 Results:
 Directory method has a precision about 50%, higher than guess precision 33%, but not good. The main reason is the lack of logic in many comments (from crazy and disappointed fans). Due to the particularity of this event, comments do not fit emotional polarity analysis.
-Machine Learning method has a precision about .
+Machine Learning method has a precision about 73.99%, with dynamic learning rate.
